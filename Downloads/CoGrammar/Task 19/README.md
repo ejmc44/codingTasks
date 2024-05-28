@@ -5,6 +5,8 @@ It will go through the encoding of the dependent variable. Splitting data into t
 and test data and examine the accuracy of the predictions with a confusion matrix and the metrics;
 accuracy, precision and recall.
 
+## Authors
+Eloise Morrison-Clare , Task provided by CoGrammer and HyperionDev
 
 ## Installation
 
@@ -22,5 +24,4 @@ cd codingTasks
 # Install dependencies
 pip install -r requirements.txt
 
-## Authors
-Eloise Morrison-Clare , Task provided by CoGrammer and HyperionDev
+
