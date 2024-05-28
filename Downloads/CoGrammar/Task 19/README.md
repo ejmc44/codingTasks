@@ -21,3 +21,6 @@ cd codingTasks
 
 # Install dependencies
 pip install -r requirements.txt
+
+## Authors
+Eloise Morrison-Clare , Task provided by CoGrammer and HyperionDev
