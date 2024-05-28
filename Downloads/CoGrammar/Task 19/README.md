@@ -1,4 +1,4 @@
-# Iris Loogistic Regression
+# Iris Logistic Regression
 
 This code uses the Iris data set and performs a logistic regression on the data.
 It will go through the encoding of the dependent variable. Splitting data into training
