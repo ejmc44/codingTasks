@@ -14,7 +14,7 @@ Here’s an example of how to use the project:
 1. Run the script.
 2. View the output.
 
-![Confusion Matrix](./images/Confusion Matrix.png)
+![Confusion Matrix](./images/ConfusionMatrix.png)
 ![Performance Metrics](./images/Metrics.png)
 
 ## Installation
